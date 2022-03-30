@@ -1,0 +1,23 @@
+[30-Mar-2022 03:00:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mehdi'@'localhost' (using password: YES) in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/loginVerified.php on line 5
+[30-Mar-2022 03:02:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mehdi'@'localhost' (using password: YES) in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/loginVerified.php on line 5
+[30-Mar-2022 03:58:01 UTC] PHP Notice:  Undefined variable: foto in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/addNewsDatabase.php on line 8
+[30-Mar-2022 03:59:55 UTC] PHP Notice:  Undefined variable: foto in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/addNewsDatabase.php on line 8
+[30-Mar-2022 04:04:13 UTC] PHP Notice:  Array to string conversion in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/addNewsDatabase.php on line 34
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:21:00 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 88
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
+[30-Mar-2022 04:23:10 UTC] PHP Notice:  Undefined index: photo in /hostimul/htqkzciz/depoaz.tk/test.php/template/pages/adminpanel/seeNews.php on line 80
