@@ -8,7 +8,7 @@ include'loginVerified.php';
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Corona Admin</title>
+    <title>Login</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="../../assets/vendors/mdi/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="../../assets/vendors/css/vendor.bundle.base.css">
@@ -33,11 +33,11 @@ include'loginVerified.php';
                 <form method="post">
                   <div class="form-group">
                     <label>Username*</label>
-                    <input type="text" autocomplete="off" name="username" class="form-control p_input">
+                    <input type="text" autocomplete="off" style="color:white" name="username" class="form-control p_input">
                   </div>
                   <div class="form-group">
                     <label>Password *</label>
-                    <input type="text" autocomplete="off" name="password" class="form-control p_input">
+                    <input type="password" autocomplete="off" name="password" class="form-control p_input">
                   </div>
                   <div class="form-group d-flex align-items-center justify-content-between">
                   </div>

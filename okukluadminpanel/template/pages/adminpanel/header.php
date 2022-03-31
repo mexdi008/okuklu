@@ -1,5 +1,6 @@
 <?php 
 session_start();
+header('Access-Control-Allow-Origin: *');
 $link = mysqli_connect("localhost", "mehdi", "12345", "okukluadminpanel");
 $date = date('Y-m-d');
 

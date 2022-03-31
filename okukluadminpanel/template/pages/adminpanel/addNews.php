@@ -67,7 +67,7 @@ include 'addNewsDatabase.php';
                     <form method="post" class="forms-sample" enctype="multipart/form-data" id="imageInputForm">
                       <div class="form-group">
                         <label for="exampleInputName1">Enter the title</label>
-                        <input type="text" class="form-control" name="title" autocomplete="off" id="exampleInputName1" placeholder="Enter the title">
+                        <input type="text" class="form-control" style="color:white" name="title" autocomplete="off" id="exampleInputName1" placeholder="Enter the title">
                       </div>
                       <div class="form-group">
                           
